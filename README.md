@@ -29,16 +29,18 @@ Before running the app, make sure you have Python 3.6+ installed.
   ```
 
 3. **Install dependencies:**
-   pip install -r requirements.txt
-
+    ```
+    pip install -r requirements.txt
+    ```
 
 ## Running the App 🚀
 
 1. Clone or download the repository.
 2. Navigate to the project folder.
 3. Run the application:
+    ```
     python app.py
-
+    ```
 
 The app will open, and you can start merging PDF files by dragging and dropping them or selecting them via the file browser.
 ---
